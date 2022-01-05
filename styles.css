@@ -1,0 +1,75 @@
+.flexible {
+  display: flex;
+  margin-bottom: 150px;
+}
+
+#first-tagline {
+  font-family: "Merriweather", serif;
+  margin-bottom: 10px;
+}
+h1 {
+  font-size: 90px;
+}
+h2 {
+  font-size: 45px;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  margin: 0;
+  padding: 100px 100px;
+}
+.header {
+  margin-top: 100px;
+}
+.cta-button {
+  text-decoration: none;
+  background-color: purple;
+  padding: 20px 40px;
+  color: white;
+  border-radius: 5px;
+}
+
+.highlight {
+  color: purple;
+}
+
+.half-width {
+  width: 35%;
+  padding-left: 10%;
+}
+
+.half-width img {
+  width: 80%;
+}
+
+p {
+  font-size: 20px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.mission-area {
+  padding-left: 180px;
+  padding-right: 180px;
+}
+
+.mission-area-box {
+  width: 100%;
+  margin-left: 3%;
+  margin-right: 5%;
+  padding: 50px;
+  background-color: rgb(207, 234, 236);
+  border-radius: 30px;
+}
+
+.center-h1 {
+  text-align: center;
+}
+
+#passion-bg {
+  background-color: rgb(248, 255, 205);
+}
+#problem-bg {
+  background-color: rgb(228, 214, 250);
+}
