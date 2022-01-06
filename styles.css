@@ -103,7 +103,7 @@ p {
   font-family: "Courgette", cursive;
   color: white;
   text-align: center;
-  padding: 10px 5px;
+  padding: 50px 0;
 }
 
 #p-footer-color {
@@ -133,4 +133,8 @@ p {
 
 .alignments {
   align-items: center;
+}
+
+footer {
+  width: 100vw;
 }
