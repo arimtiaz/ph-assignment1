@@ -1,3 +1,13 @@
+* {
+  margin: 0%;
+  padding: 0;
+  list-style: none;
+}
+.container {
+  width: 1170px;
+  margin: 0 auto;
+}
+
 .flexible {
   display: flex;
   margin-bottom: 150px;
@@ -9,6 +19,7 @@
 }
 h1 {
   font-size: 90px;
+  padding-bottom: 50px;
 }
 h2 {
   font-size: 45px;
@@ -53,6 +64,7 @@ p {
 .mission-area {
   padding-left: 180px;
   padding-right: 180px;
+  padding-bottom: 150px;
 }
 
 .mission-area-box {
@@ -76,12 +88,6 @@ p {
   background-color: rgb(228, 214, 250);
 }
 
-.decoration {
-  border-left: 10px solid purple;
-  padding: 10px;
-  border-radius: 10px;
-}
-
 .code-crazy {
   background-image: url(images/shapes/shape-1.png);
   background-repeat: no-repeat;
@@ -103,4 +109,28 @@ p {
 #p-footer-color {
   color: white;
   text-align: center;
+}
+
+.wrapper {
+  width: auto;
+  height: 60vh;
+  margin: 0 auto;
+}
+
+.h1-line-decoration {
+  width: 10px;
+  height: 220px;
+  border-radius: 30px;
+  background-color: purple;
+  margin-right: 0%;
+}
+
+.read-book {
+  background-image: url(images/shapes/shape-4.png);
+  background-repeat: no-repeat;
+  padding-top: 100px;
+}
+
+.alignments {
+  align-items: center;
 }
