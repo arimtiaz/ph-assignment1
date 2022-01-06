@@ -73,3 +73,9 @@ p {
 #problem-bg {
   background-color: rgb(228, 214, 250);
 }
+
+.decoration {
+  border-left: 10px solid purple;
+  padding: 10px;
+  border-radius: 10px;
+}
